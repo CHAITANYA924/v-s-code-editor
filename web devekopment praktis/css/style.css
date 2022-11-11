@@ -1,0 +1,25 @@
+body{
+background-color: #9ED5C5;
+}
+h2{
+    color: #0008C1;
+    font-size: 35px;
+    font-weight: lighter;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
+}
+h3{
+    color: #153462;
+    font-size: 20px;
+   text-decoration: dotted;
+text-decoration-line: underline;  
+font-style: italic; 
+}
+hr{
+   
+ border-color: grey;
+border-style: none;
+width: 15%;
+border-width: 15px;
+border-top-style: dotted;
+}
