@@ -3,20 +3,22 @@ background-color: aqua;
 
 }
 table , td,th{
-    border: 2px solid black;
+    ;
     border-radius: 15px;
 border-color: red;
-border-style:none;
+
 }
 th,td{
 background-color: yellow;
-
 padding: 20px;
 
 }
 table{
+    border-cellspacing: 50px;
     width: 50%;
-    border-spacing: 20px;
+    
+  
+
   
 
 }
