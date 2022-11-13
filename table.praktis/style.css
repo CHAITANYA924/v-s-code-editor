@@ -1,0 +1,30 @@
+body{
+background-color: aqua;
+
+}
+table , td,th{
+    border: 2px solid black;
+    border-radius: 15px;
+border-color: red;
+border-style:none;
+}
+th,td{
+background-color: yellow;
+
+padding: 20px;
+
+}
+table{
+    width: 50%;
+    border-spacing: 20px;
+  
+
+}
+
+th{
+    text-align: left;
+    background-color: bisque;
+}
+td{
+    text-align: center;
+}
