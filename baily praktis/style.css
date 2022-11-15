@@ -1,0 +1,65 @@
+
+
+body{
+    background-color: aqua;
+   
+}
+p:hover{
+    background-color: whitesmoke;
+}
+
+
+.profilepic:hover{
+background-color: yellow;
+}
+
+
+.hor{
+    height: 2px; 
+    color: red;
+    background-color: brown;
+}
+
+.second td,th{
+    background-color: yellow;
+
+border-radius: 50px;
+padding: 10px;
+
+}
+video{
+    border-radius: 100px;
+    border: 2px solid black;
+}
+
+.firstdiv{
+height: 200px;
+width: 200px;
+border: 2px solid black;
+padding: 2px;
+background-color: antiquewhite;
+}
+.seconddiv{
+    height: 200px;
+width: 200px;
+border: 2px solid black;
+background-color: blue;
+margin-left: 208px;
+color: aliceblue;
+
+
+}
+.thirddiv{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-color:tomato;
+    margin-left: 412px;
+
+}
+.india:hover{
+color: brown;
+}
+#style:hover{
+    background-color: blue;
+}

@@ -1,32 +1,36 @@
 body{
-background-color: aqua;
-
+    background-color: aqua;
 }
-table , td,th{
-    ;
-    border-radius: 15px;
-border-color: red;
 
+.firsh, tr,th,td{
+   
+  
+padding: 5px;
+border-color: tomato;
+border-radius: 10%;
 }
-th,td{
-background-color: yellow;
-padding: 20px;
 
+th, td{
+    background-color: yellow;
+    cellspacing; 5px;
 }
-table{
-    border-cellspacing: 50px;
-    width: 50%;
+hr{
+   width: 30px; 
+border-width: 5px;
+border: none;
+border-color: grey;
+border-style: none;
+border-top-style: dotted;
+}
+div{
+background-color: white;
+ height: 200px;
+ width: 200px;
+ margin: 0;
+ border: 40px solid black;
+
+ text-align: start;
+   
     
-  
 
-  
-
-}
-
-th{
-    text-align: left;
-    background-color: bisque;
-}
-td{
-    text-align: center;
 }
