@@ -2,6 +2,8 @@
 
 body{
     background-color: aqua;
+    border: 0;
+    margin: 0;
    
 }
 p:hover{
@@ -33,33 +35,40 @@ video{
 }
 
 .firstdiv{
-height: 200px;
-width: 200px;
-border: 2px solid black;
-padding: 2px;
-background-color: antiquewhite;
-}
-.seconddiv{
-    height: 200px;
-width: 200px;
-border: 2px solid black;
-background-color: blue;
-margin-left: 208px;
-color: aliceblue;
-
+height: 100px;
+width: 100px;
+background-color:red;
+display: inline-block;
+position: absolute;
+right: 0;
 
 }
-.thirddiv{
-    height: 200px;
-    width: 200px;
-    border: 2px solid black;
-    background-color:tomato;
-    margin-left: 412px;
 
+.seconddiv{ 
+    height: 100px;
+    width: 100px;
+    background-color:blue;
+    display: inline-block;
+    position: absolute;
+    top: 0; 
+    left: 100px;
+    border-bottom-left-radius: 100px;
 }
-.india:hover{
-color: brown;
-}
-#style:hover{
-    background-color: blue;
+
+ .thirddiv{
+    height: 100px;
+    width: 100px;
+background-color:yellow;
+display: inline-block;
+position: absolute;
+top: 0;
+
+ }
+
+.container{
+    position: relative;
+    width: 500px;
+    height: 500px;
+    background-color: white;
+
 }

@@ -1,0 +1,21 @@
+body{
+    background-color:  #faf2e4;
+    margin: 40px;
+}
+
+hr{
+    height: 1px;
+  width: 500px;
+background-color: blue ;
+}
+img{
+    border-radius: 100%;  
+}
+h3{
+    color:  #d1633c ;
+    font-size: 25px;
+}
+pre{
+    font-size: 20px;
+    font-weight: 900;
+}
